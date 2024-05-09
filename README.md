@@ -57,6 +57,7 @@ The dataset encompasses 43 different traffic sign classes, commonly found worldw
 
 ### Traffic sign images of all the 43 classes:
 
-![Traffic sign images](https://www.researchgate.net/publication/367980634/figure/fig4/AS:11431281117125287@1675382530134/Forty-three-kinds-of-German-traffic-signs-from-GTSDB-dataset.ppm)
+(![Traffic sign images](https://www.researchgate.net/publication/367980634/figure/fig4/AS:11431281117125287@1675382530134/Forty-three-kinds-of-German-traffic-signs-from-GTSDB-dataset.ppm)
+
 
 
